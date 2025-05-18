@@ -41,6 +41,9 @@ This is an AI-powered text classifier that identifies **fake news types** across
 
 ![Demo Screenshot](images/demo_screenshot.png)
 
+
+
+
 ### 🧪 Örnek Tweet:
 
 Click here to become a millionaire overnight!
