@@ -40,7 +40,8 @@ This is an AI-powered text classifier that identifies **fake news types** across
 
 ### 📷 Ekran Görüntüsü
 
-[![Demo Screenshot](https://github.com/MuratGoksu/fake-news-classifier/blob/main/images/demo_screenshot.png?raw=true)](https://github.com/MuratGoksu/fake-news-classifier/blob/main/images/demo_screenshot.png?raw=true) 
+![Demo Screenshot](images/demo_screenshot.png)
+
 
 ### 🧪 Örnek Tweet:
 
