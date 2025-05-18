@@ -38,7 +38,7 @@ This is an AI-powered text classifier that identifies **fake news types** across
 
 ## 🎬 Demo
 
-### 📷 Ekran Görüntüsü
+
 
 ![Demo Screenshot](images/demo_screenshot.png)
 
