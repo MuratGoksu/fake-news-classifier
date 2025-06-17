@@ -53,10 +53,11 @@ Tahmin sonucu: **Clickbait**
 ### ▶️ Uygulama Nasıl Başlatılır?
 
 ```bash
-streamlit run streamlit_app.py
 git clone https://github.com/MuratGoksu/fake-news-classifier.git
 cd fake-news-classifier
 pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
 
 Model Performansı (F1-Skorları)
 | Class          | F1 Score |
